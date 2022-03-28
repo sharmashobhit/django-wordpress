@@ -3,7 +3,7 @@ Import your existing wordpress into Django without any hassle
 
 If you have your blog on Wordpress.com(or your own wordpress hosting) then you can use this django application to get the data from the blog to your Django application in a jiffyq.
 
-# Usage:
+# Usage:11
 INSTALLED_APPS = (
   ...
   'django_wordpress',
