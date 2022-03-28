@@ -11,7 +11,7 @@ INSTALLED_APPS = (
 
 Add {% load fetch_from_wp %} to your template to import the templatetags.
 
-The templatetags provide 3 options:
+The templatetags provide 3 options:a
 * fetch_posts
 * fetch_latest_post
 * fetch_latest_comments
