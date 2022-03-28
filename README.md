@@ -15,7 +15,7 @@ The templatetags provide 3 options:a
 * fetch_posts
 * fetch_latest_post
 * fetch_latest_comments
-
+a
 * fetch_posts
       {% fetch_posts url='yourwebsite.wordpress.com' as posts %}
       # You can also pass 'number' parameter to specify how many posts you want.
